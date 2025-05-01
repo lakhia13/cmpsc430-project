@@ -73,6 +73,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+Installing Tkinter 
+```bash
+# On Ubuntu
+sudo apt-get install python3-tk
+# On MacOS
+brew install python-tk
+```
+
 ### 5. Initialize the database
 
 The application will automatically create the necessary tables and sample data when you first run it.
