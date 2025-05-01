@@ -1,0 +1,4 @@
+/.venv
+/.env
+/ps
+/oracle-instantclient-sqlplus/
